@@ -5,8 +5,7 @@ int main ()
 {
 int num, sumg;
 
-   
-printf("Ingrese un numero\n");
+   printf("Ingrese un numero\n");
     scanf("%d", &num);
 
     sumg = (num * (num+1))/2;
